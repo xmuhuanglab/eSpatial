@@ -1,8 +1,5 @@
 ---
 title: "eSpatial Tutorial"
-output:
-  html_document:
-    df_print: paged
 ---
 
 ## Library packages and source functions
