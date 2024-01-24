@@ -26,7 +26,8 @@ Briefly, it contains the following seven steps:
 
 **Step 7. Decode the combinations of spatially divergent enhancers**
 
-![1701414241123](C:\Users\Dell\AppData\Roaming\Typora\typora-user-images\1701414241123.png)
+![image](https://github.com/xmuhuanglab/eSpatial/assets/95668602/6a5c6f2b-2940-4b15-bd68-9949fcfe1cb8)
+
 
 See tutorial for more details.
 
