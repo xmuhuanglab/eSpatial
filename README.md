@@ -21,14 +21,12 @@ Briefly, it contains the following seven steps:
 
 **Step 7. Decode the spatial enhancer code**
 
-![image](https://github.com/xmuhuanglab/eSpatial/assets/95668602/4f4b7ec6-a699-4a9d-9200-fb918b129a3d)
-
+![image](https://github.com/xmuhuanglab/eSpatial/assets/95668602/25a2a385-636a-41a1-b3e8-5137f0be3106)
 
 ## **Installation**
 
 #### Docker setup
 First install [Docker](https://docs.docker.com/get-docker/) and then pull eSpatial inside container as follows.
-
 ```
 docker pull jliu5212/espatial:v1
 ```
