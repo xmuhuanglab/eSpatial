@@ -32,7 +32,7 @@ docker pull jliu5212/espatial:v1
 ```
 
 ## **Tutorial**
-Tutorial [notebook](https://github.com/xmuhuanglab/eSpatial/tree/main/notebooks) describes how to run SCARlink on a small example dataset.
+Tutorial [notebook](https://github.com/xmuhuanglab/eSpatial/tree/main/notebooks) describes how to run eSpatial on a small example dataset.
 
 ## **Contact:**
 For any inquiries or assistance, please feel free to open an issue.
