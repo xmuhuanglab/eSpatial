@@ -1,27 +1,28 @@
 # **eSpatial: a computational framework to decode the spatially divergent combinations of enhancers**
 ## **Introduction**
 
-eSpatial is a computational framework to decode gene expression regulation by the spatially divergent combinations of enhancers through integrating spatial profiling of gene expression and chromatin accessibility. 
+eSpatial is a framework to decipher the spatial regulation of enhancer clusters controlling the same gene based on spatial chromatin accessibility profiling.
 
 ### Workflow:
 
-Briefly, it contains the following seven steps: 
+ Briefly, eSpatial analysis comprises the following seven key steps:
 
 **Step 1. Prepare input matrix (Input)**
 
 **Step 2. Reduce dimension and construct spatial neighbor network (Preprocessing)**
 
-**Step 3. Detect spatial domains**
+**Step 3. Define cell types**
 
-**Step 4. Identify spatial-specific genes and cis-regulatory elements (sGEs/sCREs)**
+**Step 4. Detect spatial domains**
 
 **Step 5. Define enhancer clusters of genes**
 
-**Step 6. Depict spatial patterns of enhancers for** **genes expressed in multiple spatial domains**
+**Step 6. Identify spatial enhancer units based on spatial patterns of enhancers**
 
-**Step 7. Decode the spatial enhancer code**
+**Step 7. Decode the combinations of divergent enhancer units**
 
-![image](https://github.com/xmuhuanglab/eSpatial/assets/95668602/25a2a385-636a-41a1-b3e8-5137f0be3106)
+![image](https://github.com/user-attachments/assets/bf4d5bf3-e6f2-4301-b490-fd24609b598a)
+
 
 ## **Installation**
 
