@@ -36,3 +36,6 @@ Tutorial [notebook](https://github.com/xmuhuanglab/eSpatial/tree/main/notebooks)
 
 ## **Contact:**
 For any inquiries or assistance, please feel free to open an issue.
+
+## **Reference**
+Hong, D., Shu, M., Liu, J. et al. Divergent combinations of enhancers encode spatial gene expression. Nat Commun 16, 5091 (2025). [https://doi.org/10.1038/s41467-025-60482-1](https://doi.org/10.1038/s41467-025-60482-1)
